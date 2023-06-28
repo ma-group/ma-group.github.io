@@ -1,0 +1,14 @@
+ul.wrapper.nav.clearfix li {
+    width: 16.3%;
+}
+
+div.footer {
+    width: 1080px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p.copyright {
+    font-size: 20px;
+    text-align: center;
+}
