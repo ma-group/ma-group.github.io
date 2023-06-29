@@ -6,6 +6,7 @@ div.footer {
     width: 1080px;
     margin-right: auto;
     margin-left: auto;
+    background: rgb(0,103,156);
 }
 
 p.copyright {

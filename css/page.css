@@ -87,9 +87,9 @@
 	transition: all linear .3s;
 }
 .more-btn a:hover{
-	background: #f00;
+	background: #EAC342;
 	color: #fff;
-	border-color: #f00;
+	border-color: #EAC342;
 }
 
 .bread-nav .wrapper{
@@ -103,7 +103,7 @@
 	display: inline-block;
 }
 .bread-nav ul li a:hover{
-	color: #f00;
+	color: #EAC342;
 }
 /*作品展示*/
 .works .wrapper,.achievement .wrapper,.information .wrapper{
@@ -154,7 +154,7 @@
 	transform: scale(1.2);
 }
 .work-item:hover p{
-	color: #f00;
+	color: #EAC342;
 }
 
 /*成就*/
@@ -232,7 +232,7 @@
 	transition: all linear .3s;
 }
 .infor-right li a:hover .info-txt h3,.infor-right li a:hover .info-txt p,.news-content li a:hover .info-txt h3,.news-content li a:hover .info-txt p{
-	color: #f00;
+	color: #EAC342;
 }
 .news-content{
 	margin: -20px;
