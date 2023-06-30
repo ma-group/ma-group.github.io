@@ -13,3 +13,14 @@ p.copyright {
     font-size: 20px;
     text-align: center;
 }
+
+img.title_pic {
+    width: 99%;
+}
+
+div.cut-line {
+    width: 5px;
+    float: left;
+    height: 1000px;
+    background: gray; 
+}
